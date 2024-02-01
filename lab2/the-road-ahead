@@ -34,7 +34,7 @@
             </p>
         </div>
     </article>
-    <div>
+    <footer>
         <p>
             Escape.
             Home
@@ -42,7 +42,7 @@
             About
             Contact
         </p>
-    </div>     
+    </footer>     
 </body>
 
 </html>
