@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>index</title>
+    <title>the-road-ahead</title>
     <style>
         .round {
             border-radius: 100px;
@@ -35,13 +35,10 @@
         </div>
     </article>
     <footer>
-        <p>
-            Escape.
-            Home
-            Categories
-            About
-            Contact
-        </p>
+        <a href="https://www.youtube.com/">HOME</a>
+        <a href="https://www.youtube.com/">CATEGORIES</a>
+        <a href="https://www.youtube.com/">ABOUT</a>
+        <a href="https://www.youtube.com/">CONTACT</a>
     </footer>     
 </body>
 
